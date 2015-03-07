@@ -1,7 +1,7 @@
 ## Plot 4
 
-## This plot presents power consumption for the sub meters by day/time of week
-## y-axis has power consumption from Sub_metering (1, 2, and 3)
+## This script creates 4 plots to represent power consumption by day/time of week
+## y-axis has power consumption for different variables
 ## x-axis has 2 days of week -- 2007-02-01 and 2007 02-02
 
 ## This R script is to be executed from a working directory that has the R files 

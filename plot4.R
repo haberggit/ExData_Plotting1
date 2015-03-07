@@ -1,4 +1,4 @@
-## Plot 3
+## Plot 4
 
 ## This plot presents power consumption for the sub meters by day/time of week
 ## y-axis has power consumption from Sub_metering (1, 2, and 3)
